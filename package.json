@@ -1,0 +1,26 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "Finding my way around the Jest testing library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budokans/jest-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budokans/jest-testing/issues"
+  },
+  "homepage": "https://github.com/budokans/jest-testing#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
