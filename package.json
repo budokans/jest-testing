@@ -22,5 +22,8 @@
   "homepage": "https://github.com/budokans/jest-testing#readme",
   "devDependencies": {
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
   }
 }
